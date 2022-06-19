@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ARTP2",
+    "oncran": true
+  },
+  {
+    "package": "gim",
+    "oncran": true
+  }
+]
