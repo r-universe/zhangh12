@@ -5,3 +5,6 @@
 [submodule "gim"]
 	path = gim
 	url = https://github.com/zhangh12/gim
+[submodule "multipleOutcomes"]
+	path = multipleOutcomes
+	url = https://github.com/cran/multipleOutcomes
